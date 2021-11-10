@@ -14,6 +14,7 @@ https://localhost:8080/animal-service/animals HTTP Method: POST Description: cre
    "animalType" : "Fish",
    "moveType" : "Swim"
  }
+ 
 https://localhost:8080/animal-service/animals
 
 HTTP Method: GET
